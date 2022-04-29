@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamo78
-- 👀 I’m interested in Python, JavaScript, VBA and SQL 
+- 👀 I’m interested in Python, JavaScript, HTML, CSS, VBA and SQL 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ... 
